@@ -1,3 +1,9 @@
+tytle{
+    color:rgb(11, 39, 47);
+    font-size: 100px; 
+    margin-top:10%
+}
+
 body{
     color:rgb(11, 39, 47);
     text-align: center;
@@ -13,7 +19,11 @@ h1{
     font-size: 50px; 
     margin-top:10%
 }
+
 p{
     color:rgb(11, 47, 29);  
     font-size: 25px;
+}
+#contato{
+    font-size: 12px;
 }
