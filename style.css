@@ -1,29 +1,29 @@
-tytle{
-    color:rgb(11, 39, 47);
-    font-size: 100px; 
-    margin-top:10%
-}
-
 body{
     color:rgb(11, 39, 47);
     text-align: center;
     background-color: rgb(154, 207, 221);
-    margin-top: 10%;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
     font-family:Arial, Helvetica, sans-serif ;
+}
+
+#barco{
+    width:100%;
 }
 
 h1{
     color:rgb(11, 39, 47);
     font-size: 50px; 
-    margin-top:10%
+    margin-top:10%;
 }
 
 p{
     color:rgb(11, 47, 29);  
     font-size: 25px;
 }
+
 #contato{
     font-size: 12px;
+    margin-inline-end: 10%;
 }
